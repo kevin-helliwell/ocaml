@@ -1,3 +1,3 @@
-[[Chapter 1 - Lecture 1 - What]]
-[[Chapter 1 - Lecture 2 - Why]]
-[[Chapter 1 - Lecture 3 - OCaml]]
+[[Lecture 1 - What]]
+[[Lecture 2 - Why]]
+[[Lecture 3 - OCaml]]
