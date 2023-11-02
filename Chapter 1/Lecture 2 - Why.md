@@ -14,17 +14,17 @@
 - First recipient of the Turing Award for his "*influence in the area of advanced programming techniques and compiler construction*"
 -----------------------------------------
 # Functional languages predict the future
-## Garbage collection: 
+## Garbage collection
 - Java (1995)
 - LISP (1958)
-## Generics:
+## Generics
 - Java 5 (2004)
 - ML (1990)
-## Higher-order functions:
+## Higher-order functions
 - C# 3.0 (2007)
 - Java 8 (2014)
 - LISP (1958)
-## Type inference:
+## Type inference
 - C++ 11 (2011)
 - Java 7 (2011: initial release)
 - Java 8 (2014: improved)
@@ -39,7 +39,7 @@
 - Haskell (Facebook, Barclays, AT&T)
 - Erlang (Facebook, Amazon, T-Mobile)
 - OCaml (Facebook, Bloomberg, Citrix, Jane Street)
-## Note:
+## Note
 - Cornell CS (et al.) require functional programming for your *education*, not to get you a job
 -----------------------------------------
 # Albert Einstein (1879-1955)
