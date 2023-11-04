@@ -45,14 +45,14 @@ let x = 5 in
 ## Example 1
 ```ocaml
 let x = 5 in (let x = 6 in x);;
--> "Warning 26: unused variable x."
--> - : int = 6
+=> "Warning 26: unused variable x."
+=> - : int = 6
 ```
 - `let x = 6 in x` is evaluated first, so `let x = 5 in` is rendered obsolete/redundant.
 ## Example 2
 ```ocaml
 let x = 5 in x + (let x = 6 in x);;
--> - : int = 11
+=> - : int = 11
 ```
 - `let x = 6 in x` -> `6`
 -  `let x = 5 in x + 6` -> `11`

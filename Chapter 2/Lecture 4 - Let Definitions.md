@@ -1,28 +1,27 @@
 # Example 1
 ```ocaml
 let x = 42;;
--> val x : int = 42
+=> val x : int = 42
 ```
 ## Example 2
 ```ocaml
 x;;
--> - : int = 42
+=> - : int = 42
 ```
 ## Example 3
 ```ocaml
 let (y : int) = 3110;;
--> val y : int = 3110
+=> val y : int = 3110
 ```
 ## Example 4
 ```ocaml
 let y : int = 3110;;
--> val y : int = 3110
+=> val y : int = 3110
 ```
 ## Example 5
 ```ocaml
 x + y;;
--> - int = 3152
-
+=> - int = 3152
 ```
 -----------------------------------------
 # Definitions
@@ -41,6 +40,6 @@ x + y;;
 ## Example
 ```ocaml
 (let z = 1) + 2;;
--> "Error: Syntax error: operator expected."
+=> "Error: Syntax error: operator expected."
 ```
 -----------------------------------------

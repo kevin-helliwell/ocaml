@@ -1,12 +1,12 @@
 ```ocaml
 let x = 1;;
--> val x : int = 1
+=> val x : int = 1
 
 let x = 2;;
--> val x : int = 2
+=> val x : int = 2
 
 x;;
--> - : int = 2
+=> - : int = 2
 ```
 # Seems like variable can mutate...
 ```ocaml
