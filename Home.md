@@ -9,3 +9,6 @@
 [[Lecture 4 - Let Definitions]]
 [[Lecture 5 - Let Expressions]]
 [[Lecture 6 - Variable Expressions and Scope]]
+[[Lecture 7 - Scope and the Toplevel]]
+[[Lecture 8 - Anonymous Functions]]
+[[Lecture 9 - Lambdas]]
