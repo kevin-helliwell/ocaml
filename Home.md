@@ -12,3 +12,12 @@
 [[Lecture 7 - Scope and the Toplevel]]
 [[Lecture 8 - Anonymous Functions]]
 [[Lecture 9 - Lambdas]]
+[[Lecture 10 - Function Application]]
+[[Lecture 11 - Named Functions]]
+[[Lecture 12 - Recursive Functions]]
+[[Lecture 13 - Function Types]]
+[[Lecture 14 - Partial Application]]
+[[Lecture 15 - Polymorphic Functions]]
+[[Lecture 16 - Operators As Functions]]
+[[Lecture 17 - Application Operators]]
+# Chapter 3
